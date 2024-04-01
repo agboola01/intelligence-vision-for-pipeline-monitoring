@@ -1,1 +1,1 @@
-# xcode
+This work explores machine learning for leak point and distance prediction in a water network. We leverage a dataset containing pressure and flow measurements captured at various leak locations and sizes within a controlled pipeline. By analyzing these measurements, our models aim to predict the exact leak point along the pipe (15m, 30m, or 50m) and the distance of the leak from a reference point (e.g., inlet). This approach has the potential to streamline leak detection and repair processes in real-world water distribution systems.
