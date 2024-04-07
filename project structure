@@ -1,0 +1,14 @@
+├── @Author  :Tajudeen yusuf agboola- Data Scientist #yusuf.m1902547@st.futminna.edu.ng /agboolayusuf2018@gmail.com
+├── Data                           <- Data folder
+│   ├── sample.csv, 
+│   ├── some numpy files, 
+│   ├── dataset info.pdf,sample pipeline picture│
+│   ├── plot_data.py
+│
+├── dataframe processing.ipynb      <-jupiter notebook to process the data for modelling
+├── modelling.ipynb                 <-jupiter notebook to process and train the model
+├── models                         <- Trained models
+│   lightgbm_1.pkl
+│   lightgbm_2.pkl
+│
+├── predict.py                         <- streamlit python script 
